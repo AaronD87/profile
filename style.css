@@ -128,7 +128,6 @@ table {
 }
 
 
-
 /* Media Queries */
 
 @media (max-width: 960px) {
@@ -146,7 +145,7 @@ table {
 @media (max-width: 540px) {
   /* For a screen < 540px, this CSS will be read */
   .container {
-    width: 300px;
+    width: 540px;
   }
 }
 
